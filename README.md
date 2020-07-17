@@ -11,3 +11,8 @@
 Exmple of two clients chating with each other.
 
 ![](client.jpg)
+
+And server program should be run first. 
+
+
+![](server.jpg)
